@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SNAP Benchmark Instance Generator"
+message: "If you use this software, please cite the repository release and report the seed and generation command."
+type: software
+authors:
+  - name: "Arezoo Atighehchian"
+version: "1.9.2"
+date-released: "2026-05-28"
+license: MIT
